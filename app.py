@@ -13,9 +13,9 @@ import streamlit as st
 from openai import OpenAI
 
 # --- CONFIGURATION ---
-SCHOOL_PASSWORD = "science_class_rocks" # Change this!
+SCHOOL_PASSWORD = "computer_science_class_rocks" # Change this!
 SYSTEM_PROMPT = """
-You are a helpful teaching assistant for Year 9 Science.
+You are a helpful teaching assistant for Year 9 Computer Science.
 Answer questions simply and encourage students to think.
 Do not do their homework for them.
 If asked to write an essay, refuse politely and offer an outline instead.
